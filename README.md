@@ -24,5 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdfarag&show_icons=true&theme=dark&locale=en" alt="mohdfarag" /></p>
 
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdfarag&" alt="mohdfarag" /></center>
-
