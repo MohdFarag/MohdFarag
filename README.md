@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohamed.mahmoud02@eng-st.cu.edu.eg**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DRQMTpKJWBLT0W6-qke00eJDcPK_nHid/view?usp=share_link](https://drive.google.com/file/d/1DRQMTpKJWBLT0W6-qke00eJDcPK_nHid/view?usp=share_link)
+- 📄 Know about my experiences [HERE](https://drive.google.com/file/d/1DRQMTpKJWBLT0W6-qke00eJDcPK_nHid/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdfarag&show_icons=true&theme=dark&locale=en" alt="mohdfarag" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdfarag&" alt="mohdfarag" /></p>
+<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdfarag&" alt="mohdfarag" /></center>
 
