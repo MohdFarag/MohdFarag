@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Mohamed Ahmed Abdullah</h1>
+<h1 align="center">Hello World 👋, I'm Mohamed Abdullah</h1>
 <h3 align="center">A senior biomedical engineering student at cairo university</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdfarag&label=Profile%20views&color=009dff&style=flat" alt="mohdfarag" /> </p>
