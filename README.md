@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdfarag" alt="mohdfarag" /></a> </p>
 
-- 🔭 I’m currently working on [Image Processing Algorithmic Tools](https://github.com/MohdFarag/Image-processing-algorithmic-tools)
-
 - 📫 How to reach me **mohamed.mahmoud02@eng-st.cu.edu.eg**
 
 - 📄 Know about my experiences [HERE](https://drive.google.com/file/d/1DRQMTpKJWBLT0W6-qke00eJDcPK_nHid/view?usp=share_link)
