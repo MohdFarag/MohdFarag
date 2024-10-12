@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Mohamed Abdullah</h1>
-<h3 align="center">A senior biomedical engineering student at cairo university</h3>
+<h3 align="center">A fresh graduate from cairo university</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdfarag&label=Profile%20views&color=009dff&style=flat" alt="mohdfarag" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohamed.mahmoud02@eng-st.cu.edu.eg**
 
-- 📄 Know about my experiences [HERE](https://drive.google.com/file/d/1VfyclCjNZ6hpll3gYjbakrbxmmV2i-kS/view?usp=sharing)
+- 📄 Know about my experiences [HERE]([https://drive.google.com/file/d/1VfyclCjNZ6hpll3gYjbakrbxmmV2i-kS/view?usp=sharing](https://drive.google.com/file/d/1GxfoHNtWiKEr_Pz8YZ54JSRUPRW_VzCC/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
